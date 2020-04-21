@@ -1,0 +1,6 @@
+.DS_Store
+.AppleDouble
+.vs
+.psd
+node_modules/
+app/css/
